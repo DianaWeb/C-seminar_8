@@ -1,0 +1,15 @@
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\task57.csproj.AssemblyReference.cache
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\task57.GeneratedMSBuildEditorConfig.editorconfig
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\task57.AssemblyInfoInputs.cache
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\task57.AssemblyInfo.cs
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\task57.csproj.CoreCompileInputs.cache
+E:\Разработчик ГБ\C#\Seminar_8\task57\bin\Debug\net6.0\task57.exe
+E:\Разработчик ГБ\C#\Seminar_8\task57\bin\Debug\net6.0\task57.deps.json
+E:\Разработчик ГБ\C#\Seminar_8\task57\bin\Debug\net6.0\task57.runtimeconfig.json
+E:\Разработчик ГБ\C#\Seminar_8\task57\bin\Debug\net6.0\task57.dll
+E:\Разработчик ГБ\C#\Seminar_8\task57\bin\Debug\net6.0\task57.pdb
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\task57.dll
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\refint\task57.dll
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\task57.pdb
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\task57.genruntimeconfig.cache
+E:\Разработчик ГБ\C#\Seminar_8\task57\obj\Debug\net6.0\ref\task57.dll

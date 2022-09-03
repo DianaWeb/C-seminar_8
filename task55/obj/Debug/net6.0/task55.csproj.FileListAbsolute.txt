@@ -1,0 +1,15 @@
+E:\Разработчик ГБ\C#\Seminar_8\task55\bin\Debug\net6.0\task55.exe
+E:\Разработчик ГБ\C#\Seminar_8\task55\bin\Debug\net6.0\task55.deps.json
+E:\Разработчик ГБ\C#\Seminar_8\task55\bin\Debug\net6.0\task55.runtimeconfig.json
+E:\Разработчик ГБ\C#\Seminar_8\task55\bin\Debug\net6.0\task55.dll
+E:\Разработчик ГБ\C#\Seminar_8\task55\bin\Debug\net6.0\task55.pdb
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\task55.csproj.AssemblyReference.cache
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\task55.GeneratedMSBuildEditorConfig.editorconfig
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\task55.AssemblyInfoInputs.cache
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\task55.AssemblyInfo.cs
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\task55.csproj.CoreCompileInputs.cache
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\task55.dll
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\refint\task55.dll
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\task55.pdb
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\task55.genruntimeconfig.cache
+E:\Разработчик ГБ\C#\Seminar_8\task55\obj\Debug\net6.0\ref\task55.dll
